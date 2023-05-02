@@ -14,4 +14,5 @@ public class CalculadorCombustible {
     public int calcularCombustible(Avion avion, int distancia) {
         return avion.volar(distancia);
     }
+
 }
